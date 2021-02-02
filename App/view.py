@@ -48,7 +48,7 @@ def printMenu():
 
 def loadBooks():
     """
-    Carga los libros
+    Carga los Libros
     """
     return controller.loadBooks('GoodReads/books-small.csv')
 
